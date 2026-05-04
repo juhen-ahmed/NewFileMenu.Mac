@@ -17,6 +17,5 @@ NewFileMenu works fine on latest MacOS Tahoe 26.4.1!
 1. Go to 'System Settings > General > Login Items & Extensions > App Background Activity > Extensions > NewFileMenu' set to enable.
 2. Go to 'System Settings > General > Login Items & Extensions > Open at Login' add NewFileMenu.
 
-![](https://github.com/juhen-ahmed/NewFileMenu.Mac/assets/screenshot-2.png)
-
-![](https://github.com/juhen-ahmed/NewFileMenu.Mac/assets/screenshot-1.png)
+<img width="486" height="101" alt="screenshot-2" src="https://github.com/user-attachments/assets/8d7c241c-ab2d-45ad-9746-45cea276bbc1" />
+<img width="1202" height="809" alt="screenshot-1" src="https://github.com/user-attachments/assets/343d75fe-eee1-40a2-8ef3-5e9cf18e1c43" />
